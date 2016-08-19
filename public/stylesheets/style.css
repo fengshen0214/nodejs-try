@@ -1,0 +1,29 @@
+body{
+	padding: 50px;
+	font: 14px, "微软雅黑";
+}
+
+
+a{
+	color:red;
+}
+
+#content{
+	width: 1000px;
+	margin: 30px auto;	
+}
+
+#room{
+	background: #ddd;
+}
+
+
+#message{
+	width: 700px;
+	height: 300px;
+	overflow: hidden;
+	background: #ccc;
+	margin-bottom: 1em;
+	margin-right: ;
+	
+}
