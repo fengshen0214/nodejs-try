@@ -62,7 +62,7 @@ var server = http.createServer(function (request, response) {
 
 //启动http服务器
 server.listen(3000, function () {
-    console.log('Server http://localhost:3000/');
+    console.log('Server http://localhost:3000/ hello');
 })
 
 
